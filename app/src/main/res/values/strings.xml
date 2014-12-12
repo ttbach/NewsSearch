@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewsSearch</string>
+    <string name="title_backendandgui_detail">BackendAndGUI Detail</string>
+    <string name="search_text">Search</string>
+    <string name="button_search">Search</string>
+</resources>
